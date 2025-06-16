@@ -25,13 +25,13 @@ The Agro-Management System helps bridge the digital divide in rural agriculture 
 Agro-Management-System/
 │
 ├── 📁 docs/
-│   └── final-report.pdf   ← Upload your project report here
+│   └── final-report.pdf   
 │
 ├── 📁 media/
-│   └── demo-video.mp4     ← Upload your video demo here
+│   └── Agro-Management System.png          
 │
-├── README.md              ← Detailed project description (I'll write it below)
-└── LICENSE                ← Optional (use MIT license or leave empty)
+├── README.md              ← Detailed project description 
+
 
 ---
 
